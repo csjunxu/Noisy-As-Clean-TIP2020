@@ -32,6 +32,8 @@ Pre-trained models for AWGN denoising on Set12 are provided in the results folde
 ```
 
 #Further comments:
+The code is mainly written by Yuan Huang.
+
 Part of the code borrow from [[Deep Image Prior]](https://github.com/DmitryUlyanov/deep-image-prior)
 
 
