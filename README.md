@@ -14,9 +14,9 @@
  To reproduce the results in the NAC paper:
  
 
- - Training for Set12
+ - Training and test for Set12 at the same time
 ```
- run nac_resnet_on_set12.py
+ python nac_resnet_on_set12.py
 ```
 
 # Testing
