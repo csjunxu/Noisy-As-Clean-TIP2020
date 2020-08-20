@@ -319,7 +319,7 @@ TRAIN_PLAN = [55/255.]
 TEST_PLAN = [5/255., 10/255., 15/255., 20/255., 25/255.]
 SAVE_MODEL_FLAG = False # inital as False and turn True during training
 # img_root = 'data/denoising/BM3D_images'
-img_root = 'data/denoising/Set12_o'
+img_root = 'data/Set12'
 
 files = os.listdir(img_root)
 psnr_record_img_name = []
@@ -339,7 +339,7 @@ final_ssim_max_record_20 = []
 
 psnr_2_25_max_record = []
 final_ssim_max_record_25 = []
-output_dir = 'E:/JunXu/NAC_TPAMI/results/set12_g_DnCNN_blind55_Aug_LR=0.00001_Epoch=100/'
+output_dir = 'D:/JunXu/NAC_TPAMI/results/set12_g_DnCNN_blind55_Aug_LR=0.00001_Epoch=100/'
 full_output_dir = Path(output_dir).resolve()
 if not os.path.isdir(full_output_dir):
     os.mkdir(full_output_dir)

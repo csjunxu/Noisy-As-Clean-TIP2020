@@ -230,17 +230,17 @@ imsize = -1
 SAVE_DURING_TRAINING = True
 save_every = 1
 
-TRAIN_PLAN = [5/255., 10/255., 15/255., 20/255., 25/255.]
+TRAIN_PLAN = [30/255., 40/255., 50/255.] #[5/255., 10/255., 15/255., 20/255., 25/255.]
 
 ## denoising
-img_root = 'data/denoising/Set12_o'
+img_root = 'data/Set12'
 
 files = os.listdir(img_root)
 psnr_record_img_name = []
 psnr_record_max_test_psnr = []
 psnr_2_max_record = []
 final_ssim_max_record = []
-output_dir = 'E:/JunXu/NAC_TPAMI/results/set12_g_DnCNN_Aug_LR=0.001_Epoch=180/'
+output_dir = 'D:/JunXu/NAC_TPAMI/results/set12_g_DnCNN_Aug_LR=0.001_Epoch=180/'
 full_output_dir = Path(output_dir).resolve()
 if not os.path.isdir(full_output_dir):
     os.mkdir(full_output_dir)

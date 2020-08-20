@@ -19,7 +19,28 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.nac_dncnn_set12">
+    <configuration name="nac_dncnn_set12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Noisy-As-Clean" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nac_dncnn_set12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="plot_for_large_sigma" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Noisy-As-Clean" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -43,6 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.nac_dncnn_set12" />
         <item itemvalue="Python.plot_for_large_sigma" />
       </list>
     </recent_temporary>
@@ -71,21 +93,32 @@
       <screen x="0" y="0" width="3378" height="1440" />
     </state>
     <state x="1883" y="469" key="FileChooserDialogImpl/0.0.3378.1440@0.0.3378.1440" timestamp="1597889950938" />
-    <state width="3357" height="414" key="GridCell.Tab.0.bottom" timestamp="1597911401780">
+    <state width="3357" height="414" key="GridCell.Tab.0.bottom" timestamp="1597911659206">
       <screen x="0" y="0" width="3378" height="1440" />
     </state>
-    <state width="3357" height="414" key="GridCell.Tab.0.bottom/0.0.3378.1440@0.0.3378.1440" timestamp="1597911401780" />
-    <state width="3357" height="414" key="GridCell.Tab.0.center" timestamp="1597911401780">
+    <state width="3357" height="414" key="GridCell.Tab.0.bottom/0.0.3378.1440@0.0.3378.1440" timestamp="1597911659206" />
+    <state width="3357" height="414" key="GridCell.Tab.0.center" timestamp="1597911659206">
       <screen x="0" y="0" width="3378" height="1440" />
     </state>
-    <state width="3357" height="414" key="GridCell.Tab.0.center/0.0.3378.1440@0.0.3378.1440" timestamp="1597911401780" />
-    <state width="3357" height="414" key="GridCell.Tab.0.left" timestamp="1597911401780">
+    <state width="3357" height="414" key="GridCell.Tab.0.center/0.0.3378.1440@0.0.3378.1440" timestamp="1597911659206" />
+    <state width="3357" height="414" key="GridCell.Tab.0.left" timestamp="1597911659206">
       <screen x="0" y="0" width="3378" height="1440" />
     </state>
-    <state width="3357" height="414" key="GridCell.Tab.0.left/0.0.3378.1440@0.0.3378.1440" timestamp="1597911401780" />
-    <state width="3357" height="414" key="GridCell.Tab.0.right" timestamp="1597911401780">
+    <state width="3357" height="414" key="GridCell.Tab.0.left/0.0.3378.1440@0.0.3378.1440" timestamp="1597911659206" />
+    <state width="3357" height="414" key="GridCell.Tab.0.right" timestamp="1597911659206">
       <screen x="0" y="0" width="3378" height="1440" />
     </state>
-    <state width="3357" height="414" key="GridCell.Tab.0.right/0.0.3378.1440@0.0.3378.1440" timestamp="1597911401780" />
+    <state width="3357" height="414" key="GridCell.Tab.0.right/0.0.3378.1440@0.0.3378.1440" timestamp="1597911659206" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/nac_dncnn_set12_blind.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
