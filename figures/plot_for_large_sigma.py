@@ -2,7 +2,7 @@ import pickle
 import os
 import matplotlib.pyplot as plt
 import numpy as np
-from ysh_add import MyData
+# from ysh_add import MyData
 import pylab
 import numpy as np
 import matplotlib.pyplot as plt
