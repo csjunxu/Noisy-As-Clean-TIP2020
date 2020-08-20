@@ -31,6 +31,14 @@ Pre-trained models for AWGN denoising on Set12 are provided in the results folde
  run test_nac_resnet_on_set12.py
 ```
 
+# Draw Figrues
+The code for drawing the figures in ablation study is provided in the figures folder
+
+```
+ run plot_for_large_sigma.py
+```
+
+
 #Further comments:
 The code is mainly written by Yuan Huang.
 
