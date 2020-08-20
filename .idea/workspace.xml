@@ -18,6 +18,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.nac_dncnn_set12">
     <configuration name="nac_dncnn_set12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -89,26 +90,30 @@
       <screen x="0" y="0" width="3378" height="1440" />
     </state>
     <state x="1143" y="374" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3378.1440@0.0.3378.1440" timestamp="1597904915865" />
-    <state x="1883" y="469" key="FileChooserDialogImpl" timestamp="1597889950938">
+    <state x="1883" y="469" key="FileChooserDialogImpl" timestamp="1597913826126">
       <screen x="0" y="0" width="3378" height="1440" />
     </state>
-    <state x="1883" y="469" key="FileChooserDialogImpl/0.0.3378.1440@0.0.3378.1440" timestamp="1597889950938" />
-    <state width="3357" height="414" key="GridCell.Tab.0.bottom" timestamp="1597911659206">
+    <state x="1883" y="469" key="FileChooserDialogImpl/0.0.3378.1440@0.0.3378.1440" timestamp="1597913826126" />
+    <state width="3357" height="414" key="GridCell.Tab.0.bottom" timestamp="1597914089975">
       <screen x="0" y="0" width="3378" height="1440" />
     </state>
-    <state width="3357" height="414" key="GridCell.Tab.0.bottom/0.0.3378.1440@0.0.3378.1440" timestamp="1597911659206" />
-    <state width="3357" height="414" key="GridCell.Tab.0.center" timestamp="1597911659206">
+    <state width="3357" height="414" key="GridCell.Tab.0.bottom/0.0.3378.1440@0.0.3378.1440" timestamp="1597914089975" />
+    <state width="3357" height="414" key="GridCell.Tab.0.center" timestamp="1597914089975">
       <screen x="0" y="0" width="3378" height="1440" />
     </state>
-    <state width="3357" height="414" key="GridCell.Tab.0.center/0.0.3378.1440@0.0.3378.1440" timestamp="1597911659206" />
-    <state width="3357" height="414" key="GridCell.Tab.0.left" timestamp="1597911659206">
+    <state width="3357" height="414" key="GridCell.Tab.0.center/0.0.3378.1440@0.0.3378.1440" timestamp="1597914089975" />
+    <state width="3357" height="414" key="GridCell.Tab.0.left" timestamp="1597914089975">
       <screen x="0" y="0" width="3378" height="1440" />
     </state>
-    <state width="3357" height="414" key="GridCell.Tab.0.left/0.0.3378.1440@0.0.3378.1440" timestamp="1597911659206" />
-    <state width="3357" height="414" key="GridCell.Tab.0.right" timestamp="1597911659206">
+    <state width="3357" height="414" key="GridCell.Tab.0.left/0.0.3378.1440@0.0.3378.1440" timestamp="1597914089975" />
+    <state width="3357" height="414" key="GridCell.Tab.0.right" timestamp="1597914089975">
       <screen x="0" y="0" width="3378" height="1440" />
     </state>
-    <state width="3357" height="414" key="GridCell.Tab.0.right/0.0.3378.1440@0.0.3378.1440" timestamp="1597911659206" />
+    <state width="3357" height="414" key="GridCell.Tab.0.right/0.0.3378.1440@0.0.3378.1440" timestamp="1597914089975" />
+    <state x="1296" y="177" key="SettingsEditor" timestamp="1597913878197">
+      <screen x="0" y="0" width="3378" height="1440" />
+    </state>
+    <state x="1296" y="177" key="SettingsEditor/0.0.3378.1440@0.0.3378.1440" timestamp="1597913878197" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

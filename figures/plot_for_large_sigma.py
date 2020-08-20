@@ -81,7 +81,7 @@ ax1.legend([h1],['PSNR (dB), $\sigma$ = 50'], loc=(.01,.12))
 
 ax2.legend([h2],['SSIM, $\sigma$ = 50'], loc =(.01,.01))
 # ax2.legend([h22],['SSIM, sigma =25'], loc =(.01,.1))
-plt.xticks(t,['BM3D','DnCNN','NAC'])
+plt.xticks(t,['BM3D','DnCNN','ResNet+NAC'])
 
 # plt.xticks(t,['NAC-AWGN','DnCNN','DIP','NAC-POISSON','NASC','DIP'])
 # ax1.set_xlim(0, 5)

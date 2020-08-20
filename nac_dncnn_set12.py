@@ -230,7 +230,7 @@ imsize = -1
 SAVE_DURING_TRAINING = True
 save_every = 1
 
-TRAIN_PLAN = [30/255., 40/255., 50/255.] #[5/255., 10/255., 15/255., 20/255., 25/255.]
+TRAIN_PLAN = [40/255., 50/255.] #[5/255., 10/255., 15/255., 20/255., 25/255.]
 
 ## denoising
 img_root = 'data/Set12'
