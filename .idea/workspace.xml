@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a67fc35-22fd-4d5a-b304-6082c127f665" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gLBpQ9lV3liXAavBMpsuooaiIp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a67fc35-22fd-4d5a-b304-6082c127f665" name="Default Changelist" comment="" />
+      <created>1597884187679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597884187679</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1597" y="389" key="#Inspections" timestamp="1597889992548">
+      <screen x="0" y="0" width="3378" height="1440" />
+    </state>
+    <state x="1597" y="389" key="#Inspections/0.0.3378.1440@0.0.3378.1440" timestamp="1597889992548" />
+    <state x="1143" y="374" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597904915865">
+      <screen x="0" y="0" width="3378" height="1440" />
+    </state>
+    <state x="1143" y="374" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3378.1440@0.0.3378.1440" timestamp="1597904915865" />
+    <state x="1883" y="469" key="FileChooserDialogImpl" timestamp="1597889950938">
+      <screen x="0" y="0" width="3378" height="1440" />
+    </state>
+    <state x="1883" y="469" key="FileChooserDialogImpl/0.0.3378.1440@0.0.3378.1440" timestamp="1597889950938" />
+  </component>
+</project>
