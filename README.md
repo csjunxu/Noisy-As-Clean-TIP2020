@@ -21,11 +21,9 @@
 
 # Testing
 
-Pre-trained models for AWGN denoising on Set12 are provided in the results folder
+The test is performed after the models are trained. 
 
- - Testing for Set12
- 
- Modify the specific settings that need to test in test_nac_resnet_on_set12.py
+If you have pre-trained models, for AWGN denoising on Set12, you can modify the specific settings that need to test in test_nac_resnet_on_set12.py
  
 ```
  run test_nac_resnet_on_set12.py
